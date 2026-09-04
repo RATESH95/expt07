@@ -5,17 +5,17 @@ const FRIEND_NAME = "Kanak";
 
 const memories = [
   {
-    image: "/photos/kanak1.jpg",
+    image: `${process.env.PUBLIC_URL}/photos/kanak1.jpg`,
     title: "The Beginning",
     text: "The moment our friendship started.",
   },
   {
-    image: "/photos/kanak2.jpg",
+    image: `${process.env.PUBLIC_URL}/photos/kanak2.jpg`,
     title: "Pure Chaos",
     text: "Somehow every normal day becomes an adventure.",
   },
   {
-    image: "/photos/kanak3.jpg",
+    image: `${process.env.PUBLIC_URL}/photos/kanak2.jpg`,
     title: "Unforgettable",
     text: "One of those memories we'll probably never forget.",
   },
