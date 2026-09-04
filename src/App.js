@@ -15,7 +15,7 @@ const memories = [
     text: "Somehow every normal day becomes an adventure.",
   },
   {
-    image: `${process.env.PUBLIC_URL}/photos/kanak2.jpg`,
+    image: `${process.env.PUBLIC_URL}/photos/kanak3.jpg`,
     title: "Unforgettable",
     text: "One of those memories we'll probably never forget.",
   },
